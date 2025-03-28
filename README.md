@@ -3,7 +3,7 @@ This repository verifies the convergence rate of [OptISTA](https://arxiv.org/abs
 
 ## `OptISTA_PEPit_Code_verification.ipynb`
 
-This python jupyter notebook verifies the convergence rate of OptISTA by [PEPit](https://pepit.readthedocs.io/en/latest/index.html) library. 
+This python jupyter notebook verifies the convergence rate of OptISTA by using [PEPit](https://pepit.readthedocs.io/en/latest/index.html) library. 
 We find that the results of the PEPit code match Theorem 1. 
 
 ### Dependencies
