@@ -1,5 +1,5 @@
 # OptISTA_Verification
-This repository verifies the convergence rate of [OptISTA](https://arxiv.org/abs/2305.15704)
+This repository numerically verifies the convergence rate of [OptISTA](https://arxiv.org/abs/2305.15704)
 
 ## `OptISTA_PEPit_Code_verification.ipynb`
 
